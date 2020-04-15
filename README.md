@@ -18,13 +18,10 @@ Justin Grote
 
 The event will take place on the 16th of April, all times here are listed in CEST.
 
-1900-1910 Announcements – [Jaap Brasser](https://twitter.com/jaap_brasser)
-
-1910-2000 Building your first VSCode extension – [Thomas Rayner](https://twitter.com/MrThomasRayner)
-
-2000-2045 Power Up Your Shell! – [Justin Grote](https://twitter.com/JustinWGrote)
-
-2045-2115 Open Discussion with the [DuPSUG](https://twitter.com/dupsug) community
+* 1900-1910 Announcements – [Jaap Brasser](https://twitter.com/jaap_brasser)
+* 1910-2000 Building your first VSCode extension – [Thomas Rayner](https://twitter.com/MrThomasRayner)
+* 2000-2045 Power Up Your Shell! – [Justin Grote](https://twitter.com/JustinWGrote)
+* 2045-2115 Open Discussion with the [DuPSUG](https://twitter.com/dupsug) community
  
 
 ## Session Information
