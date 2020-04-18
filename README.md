@@ -11,7 +11,7 @@ The sessions will be recorded and will be published to our YouTube channel: [DuP
 We have the following speakers presenting:
 
 Thomas Rayner – Senior Security Service Engineer at Microsoft
-Justin Grote
+Justin Grote - Datacenter Solutions Architect
  
 
 ## Agenda
