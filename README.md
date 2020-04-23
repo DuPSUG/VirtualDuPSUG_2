@@ -4,15 +4,16 @@
 
 This is a virtual edition of our user group, with a special focus on PowerShell Developer technologies, Azure and of course a deep dive into PowerShell. We have made the decision to host this event virtually for the first time, and we are excited to be able to open up our local user group to the global stage for the first time! We have an evening with diverse and advanced topics prepared for you presented by experienced speakers. Registration through Eventbrite is optional, with the benefit that you’ll receive an email notification with the streaming link and a calendar invite.
 
-The sessions will be recorded and will be published to our YouTube channel: [DuPSUG on YouTube](https://www.youtube.com/channel/UC5iBPdiO47C_h_y1L0wndLQ)
+The sessions will be recorded and will be published to our YouTube channel:
+
+[DuPSUG on YouTube](https://www.youtube.com/channel/UC5iBPdiO47C_h_y1L0wndLQ)
 
 ## Speakers
 
 We have the following speakers presenting:
 
-Thomas Rayner – Senior Security Service Engineer at Microsoft
-
-Justin Grote - Datacenter Solutions Architect
+* Thomas Rayner – Senior Security Service Engineer at Microsoft
+* Justin Grote - Datacenter Solutions Architect
  
 
 ## Agenda
