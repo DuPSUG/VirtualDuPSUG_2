@@ -8,6 +8,12 @@ The sessions will be recorded and will be published to our YouTube channel:
 
 [DuPSUG on YouTube](https://www.youtube.com/channel/UC5iBPdiO47C_h_y1L0wndLQ)
 
+## Recordings
+
+### Writing Your First Visual Studio Code Extension - Thomas Rayner
+
+[Writing Your First Visual Studio Code Extension - Thomas Rayner![image](https://user-images.githubusercontent.com/12744735/80106820-a17c3e80-857a-11ea-93d4-9985a0f46322.png)](https://www.youtube.com/watch?v=2j3eqjFwApw)
+
 ## Speakers
 
 We have the following speakers presenting:
