@@ -12,7 +12,11 @@ The sessions will be recorded and will be published to our YouTube channel:
 
 ### Writing Your First Visual Studio Code Extension - Thomas Rayner
 
-[![Writing Your First Visual Studio Code Extension - Thomas Rayner](https://user-images.githubusercontent.com/12744735/80106820-a17c3e80-857a-11ea-93d4-9985a0f46322.png)](https://www.youtube.com/watch?v=2j3eqjFwApw)
+[![Writing Your First Visual Studio Code Extension - Thomas Rayner](https://user-images.githubusercontent.com/12744735/80106820-a17c3e80-857a-11ea-93d4-9985a0f46322.png)](https://www.youtube.com/watch?v=2j3eqjFwApw&list=PL_fQl8z9TWmHxzjWFtaMdCwxpxrJWFhJp&index=1
+
+### Power Up Your Shell - Windows Terminal - Justin Grote
+
+[![image](https://user-images.githubusercontent.com/12744735/80251047-3a8f8000-8675-11ea-801c-8601de2d561c.png)](https://www.youtube.com/watch?v=f9yQ4aBm-bU&list=PL_fQl8z9TWmHxzjWFtaMdCwxpxrJWFhJp&index=2)
 
 ## Speakers
 
