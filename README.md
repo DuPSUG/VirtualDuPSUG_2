@@ -10,9 +10,13 @@ The sessions will be recorded and will be published to our YouTube channel:
 
 ## Recordings
 
+All recordings are available in the following YouTube playlist:
+
+[Virtual DuPSUG 2](https://www.youtube.com/playlist?list=PL_fQl8z9TWmHxzjWFtaMdCwxpxrJWFhJp)
+
 ### Writing Your First Visual Studio Code Extension - Thomas Rayner
 
-[![Writing Your First Visual Studio Code Extension - Thomas Rayner](https://user-images.githubusercontent.com/12744735/80106820-a17c3e80-857a-11ea-93d4-9985a0f46322.png)](https://www.youtube.com/watch?v=2j3eqjFwApw&list=PL_fQl8z9TWmHxzjWFtaMdCwxpxrJWFhJp&index=1
+[![Writing Your First Visual Studio Code Extension - Thomas Rayner](https://user-images.githubusercontent.com/12744735/80106820-a17c3e80-857a-11ea-93d4-9985a0f46322.png)](https://www.youtube.com/watch?v=2j3eqjFwApw&list=PL_fQl8z9TWmHxzjWFtaMdCwxpxrJWFhJp&index=1)
 
 ### Power Up Your Shell - Windows Terminal - Justin Grote
 
